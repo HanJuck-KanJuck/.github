@@ -72,8 +72,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href=""><img src="![image](https://github.com/HanJuck-KanJuck/.github/assets/119282494/40713b4f-8808-454f-b0f7-90b7cc71db20)
-" width="150px;" alt="">
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/141614581?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/114653516?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/MinSooC"><img src="https://avatars.githubusercontent.com/u/141614581?v=4" width="150px;" alt="">
