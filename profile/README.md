@@ -52,7 +52,7 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white)
 > #### AI
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003857?style=flat&logo=sqlite&logoColor=white)
