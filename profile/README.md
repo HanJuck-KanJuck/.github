@@ -75,7 +75,7 @@
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/141614581?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/114653516?v=4" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/MinSooC"><img src="https://avatars.githubusercontent.com/u/141614581?v=4" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hyunmeme"><img src="https://avatars.githubusercontent.com/u/142553262?v=4" width="150px;" alt="">
   </tr>
       
   <tr>
